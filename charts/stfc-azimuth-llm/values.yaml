@@ -1,7 +1,7 @@
 azimuth-llm-chat:
   azimuth-llm:
     huggingface:
-      model: &model-name deepseek-ai/deepseek-llm-7b-chat
+      model: &model-name microsoft/Phi-4-mini-instruct
     ui:
       image:
         repository: ghcr.io/stackhpc/azimuth-llm-chat-ui
