@@ -2,7 +2,7 @@ apiVersion: v2
 name: stfc-azimuth-llm-chat
 description: HuggingFace large language model serving along with a simple web interface.
 type: application
-version: 0.1.1
+version: 0.1.2
 appVersion: local
 
 icon: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg
