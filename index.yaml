@@ -5,6 +5,24 @@ entries:
       azimuth.stackhpc.com/label: HuggingFace LLM
     apiVersion: v2
     appVersion: local
+    created: "2025-08-13T15:04:11.18485058Z"
+    dependencies:
+    - name: azimuth-llm-chat
+      repository: https://stackhpc.github.io/azimuth-llm
+      version: 0.9.5
+    description: HuggingFace large language model serving along with a simple web
+      interface.
+    digest: 2de4a2af81e4390fc69e24c2fcec47dbc3b81982c19e0f9b00d502bec896157b
+    icon: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg
+    name: stfc-azimuth-llm-chat
+    type: application
+    urls:
+    - https://github.com/AlexCK-STFC/azimuth-charts/releases/download/stfc-azimuth-llm-chat-0.1.3/stfc-azimuth-llm-chat-0.1.3.tgz
+    version: 0.1.3
+  - annotations:
+      azimuth.stackhpc.com/label: HuggingFace LLM
+    apiVersion: v2
+    appVersion: local
     created: "2025-08-13T10:45:40.132768128Z"
     dependencies:
     - name: azimuth-llm-chat
@@ -55,4 +73,4 @@ entries:
     urls:
     - https://github.com/AlexCK-STFC/azimuth-charts/releases/download/stfc-azimuth-llm-chat-0.1.0/stfc-azimuth-llm-chat-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-13T10:45:40.132784739Z"
+generated: "2025-08-13T15:04:11.184873303Z"
