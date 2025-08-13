@@ -12,7 +12,7 @@ entries:
       version: 0.9.5
     description: HuggingFace large language model serving along with a simple web
       interface.
-    digest: 94c7ffda3fd90fe2c4ffec6b02b4f36d75858b4fb8112d53861c92092cd252ca
+    digest: 7ddbec8f3a5859310b3071efda54dca1030b586b34a1073359727bdaed5bc3b4
     icon: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg
     name: stfc-azimuth-llm-chat
     type: application
